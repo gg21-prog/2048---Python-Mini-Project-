@@ -6,6 +6,8 @@ A Python implementation of the popular 2048 puzzle game using Tkinter for the gr
 
 This project is a recreation of the classic 2048 game where players combine numbered tiles to reach the 2048 tile. The game features a 4x4 grid where tiles with the same number merge when moved in the same direction. The goal is to create a tile with the number 2048 before running out of moves.
 
+[Screencast from 11-17-2025 09:16:38 AM.webm](https://github.com/user-attachments/assets/890a14e3-9155-4216-a96a-a72f5ef3e26b)
+
 ## Requirements
 
 - Python 3.x
